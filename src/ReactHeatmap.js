@@ -53,7 +53,7 @@ class ReactHeatmap extends Component {
 }
 
 ReactHeatmap.propTypes = {
-	max : PropTypes.number,
+// 	max : PropTypes.number,
 	data : PropTypes.array,
 	unit : PropTypes.string
 }
